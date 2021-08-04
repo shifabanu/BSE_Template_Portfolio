@@ -11,7 +11,7 @@ This project describes the basics of Arduino Programming. Please follow the vide
 The video explains the basics of how to get started with the Arduino. All the tutorials are easy to follow.  
 
 [![Arduino Tutotial 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624814482/video_to_markdown/images/youtube--fJWR7dBuc18-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fJWR7dBuc18 "Arduino Tutotial 1"){:target="_blank" rel="noopener"}
-
+<img src="images/shifa_carbon.png" width=500 align=center style="float:right; padding-right:10px">
 
 
 # How to use Arduino using Python
