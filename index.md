@@ -4,7 +4,7 @@ This project describes the basics of Arduino Programming. Please follow the vide
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Shifa Shaikh | San Jose State University | Electrical Engineering | Graduated
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ![Headstone Image](https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png)
   
 # Arduino Programming Set up for Beginners
